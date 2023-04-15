@@ -4,8 +4,8 @@ Node interpreter: node.exe 16.13.2
 How it works:
 Input: Lorem ipsum dolor sit amet
 Output:
-![suffix-tree](https://user-images.githubusercontent.com/27953991/232255904-8c6538eb-c129-409f-9d9c-214b4140c974.svg)
-![output](https://user-images.githubusercontent.com/27953991/232255905-2d63491b-126f-4eda-ba9d-67bc69128973.svg)
+![suffix-tree](https://user-images.githubusercontent.com/27953991/232255904-8c6538eb-c129-409f-9d9c-214b4140c974.svg =250x250)
+![output](https://user-images.githubusercontent.com/27953991/232255905-2d63491b-126f-4eda-ba9d-67bc69128973.svg =250x250)
 
 
 > **Warning**
